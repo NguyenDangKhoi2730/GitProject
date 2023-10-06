@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 table {
     font-family: Arial, sans-serif;
     border-collapse:collapse ;
@@ -10,4 +11,18 @@ td,th {
 }
 tr:nth-child(even) {
     background-color: #dddddd;
+=======
+table {
+    font-family: Arial, sans-serif;
+    border-collapse:collapse ;
+    width: 100%;
+}
+td,th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+>>>>>>> e605ac5d509bd7224cf85fbffa75e04988de105b
 }
