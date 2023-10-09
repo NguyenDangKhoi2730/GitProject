@@ -1,0 +1,16 @@
+table{ margin: auto;}
+.table1{
+    width: 750px;
+    color: blue;}
+    .title{font-size:x-large;}
+.table1.th{
+    text-align: center;
+}
+.left{ text-align: left;}
+.right{ text-align: right;}
+.table2{
+    width:800px; height: 150px;
+    border-collapse: collapse;
+}
+.day{background-color: yellow;}
+.th2{background-color: orange;}

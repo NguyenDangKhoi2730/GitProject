@@ -1,28 +1,28 @@
-table{
-    margin: auto;
-    background-color: #FFFDA9;
-    width: 40%;
-    height: 300px;
+table {
+  margin: auto;
+  background-color: #fffda9;
+  width: 40%;
+  height: 300px;
 }
-.first{
-    background-color: #D4FDD6;
-    text-align: left;
-    color: blue;   
+.first {
+  background-color: #d4fdd6;
+  text-align: left;
+  color: blue;
 }
-.text{
-    color: blue;
-    vertical-align: top;
+.text {
+  color: blue;
+  vertical-align: top;
 }
-.name{
-    width: 200px;
+.name {
+  width: 200px;
 }
-.birth{
-    width: 100px;
+.birth {
+  width: 100px;
 }
-.address{
-    width: 150px;
-    height: 50px;
+.address {  
+  width: 150px;
+  height: 50px;
 }
-.last{
-    text-align: center;
+.last {
+  text-align: center;
 }
